@@ -1,0 +1,7 @@
+.deps
+*.lo
+*.la
+*.log
+sample
+build
+data/*
